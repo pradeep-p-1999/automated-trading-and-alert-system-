@@ -1,0 +1,2 @@
+1.  python 3.7.0
+2. pandas
